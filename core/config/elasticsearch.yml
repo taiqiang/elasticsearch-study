@@ -30,11 +30,11 @@ node.attr.rack: r1
 #
 # Path to directory where to store the data (separate multiple locations by comma):
 #
-path.data: F:/workspace/elasticsearch-workspace/path/data
+path.data: E:/elasticsearch-workspace/path/data
 #
 # Path to log files:
 #
-path.logs:  F:/workspace/elasticsearch-workspace/path/logs
+path.logs:  E:/elasticsearch-workspace/path/logs
 #
 # ----------------------------------- Memory -----------------------------------
 #
